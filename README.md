@@ -11,7 +11,7 @@
 - 🏥 **[AI Healthcare Chatbot](https://github.com/bilalahmad0210/ai-healthcare-chatbot)** – Intelligent clinical triage assistant powered by LLMs, FastAPI, and Firebase.
 - 🔍 **[ProDetect: YOLOv8 Object Detection](https://github.com/bilalahmad0210/Prodetect)** – Real-time advanced object detection using YOLOv8 and OpenCV.
 - 🧠 **[Reddit User Persona Generator](https://github.com/bilalahmad0210/reddit-user-persona)** – Scrapes Reddit data and builds structured personas using LLM reasoning.
-- 🧩 **Multi-Modal RAG Chatbot (WIP)** – Local LLM + image/video processing for retrieval-augmented generation.
+- 🧩 **[Multi-Modal RAG Chatbot (WIP)](https://github.com/bilalahmad0210/Multi-Modal-RAG-Assistant)** – Local LLM + image/video processing for retrieval-augmented generation.
 
 ---
 
